@@ -1,0 +1,246 @@
+[INFO ] 2023-04-23 09:47:51.715 [main] IndexPage - User sign-up
+[INFO ] 2023-04-23 09:56:48.044 [main] IndexPage - User sign-up
+[INFO ] 2023-04-23 09:57:16.092 [main] IndexPage - User sign-up
+[INFO ] 2023-04-23 09:57:40.633 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 09:57:43.013 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 09:58:12.288 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 09:58:20.913 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 09:58:33.477 [main] Cartpage - Product added to cart
+[INFO ] 2023-04-23 10:37:45.796 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 10:37:48.765 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 10:37:51.835 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 10:37:58.427 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 10:37:59.352 [main] Cartpage - Product 9added to cart button clicked
+[INFO ] 2023-04-23 10:38:01.094 [main] Cartpage - order placed clicked
+[INFO ] 2023-04-23 10:38:02.603 [main] PlaceOrderDetail - oder information provided
+[INFO ] 2023-04-23 10:38:03.220 [main] PlaceOrderDetail - oder information provided-name
+[INFO ] 2023-04-23 10:38:03.805 [main] PlaceOrderDetail - oder information provided-Country
+[INFO ] 2023-04-23 10:38:04.421 [main] PlaceOrderDetail - oder information provided-city
+[INFO ] 2023-04-23 10:38:05.064 [main] PlaceOrderDetail - oder information provided-Card detail
+[INFO ] 2023-04-23 10:38:05.472 [main] PlaceOrderDetail - oder information provided-Month
+[INFO ] 2023-04-23 10:38:05.929 [main] PlaceOrderDetail - oder information provided-year
+[INFO ] 2023-04-23 10:41:09.897 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 10:41:12.609 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 10:41:15.544 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 10:41:22.492 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 10:41:23.393 [main] Cartpage - Product 9added to cart button clicked
+[INFO ] 2023-04-23 10:41:24.849 [main] Cartpage - order placed clicked
+[INFO ] 2023-04-23 10:41:26.481 [main] PlaceOrderDetail - oder information provided
+[INFO ] 2023-04-23 10:41:27.156 [main] PlaceOrderDetail - oder information provided-name
+[INFO ] 2023-04-23 10:41:27.710 [main] PlaceOrderDetail - oder information provided-Country
+[INFO ] 2023-04-23 10:41:28.214 [main] PlaceOrderDetail - oder information provided-city
+[INFO ] 2023-04-23 10:41:28.891 [main] PlaceOrderDetail - oder information provided-Card detail
+[INFO ] 2023-04-23 10:41:29.403 [main] PlaceOrderDetail - oder information provided-Month
+[INFO ] 2023-04-23 10:41:29.950 [main] PlaceOrderDetail - oder information provided-year
+[INFO ] 2023-04-23 10:41:44.595 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 10:41:46.480 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 10:41:49.018 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 10:41:54.068 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 10:41:54.971 [main] Cartpage - Product 9added to cart button clicked
+[INFO ] 2023-04-23 10:41:56.941 [main] Cartpage - order placed clicked
+[INFO ] 2023-04-23 10:42:31.273 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 10:43:00.278 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 10:43:02.366 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 13:22:37.844 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 13:22:40.719 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 13:22:47.009 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 13:22:53.478 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 13:22:54.518 [main] Cartpage - Product 9added to cart button clicked
+[INFO ] 2023-04-23 13:22:56.679 [main] Cartpage - order placed clicked
+[INFO ] 2023-04-23 13:22:57.988 [main] PlaceOrderDetail - oder information provided
+[INFO ] 2023-04-23 13:22:58.603 [main] PlaceOrderDetail - oder information provided-name
+[INFO ] 2023-04-23 13:22:59.107 [main] PlaceOrderDetail - oder information provided-Country
+[INFO ] 2023-04-23 13:22:59.553 [main] PlaceOrderDetail - oder information provided-city
+[INFO ] 2023-04-23 13:23:00.089 [main] PlaceOrderDetail - oder information provided-Card detail
+[INFO ] 2023-04-23 13:23:00.529 [main] PlaceOrderDetail - oder information provided-Month
+[INFO ] 2023-04-23 13:23:01.066 [main] PlaceOrderDetail - oder information provided-year
+[INFO ] 2023-04-23 13:23:22.867 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 13:23:25.729 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 13:23:56.458 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 13:24:00.281 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 13:24:03.075 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 13:24:10.432 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 13:24:11.291 [main] Cartpage - Product 9added to cart button clicked
+[INFO ] 2023-04-23 13:24:14.599 [main] Cartpage - order placed clicked
+[INFO ] 2023-04-23 13:24:50.957 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 13:24:53.176 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 13:24:59.539 [main] Cartpage - Product added to cart
+[INFO ] 2023-04-23 13:28:40.256 [main] IndexPage - User sign-up
+[INFO ] 2023-04-23 13:28:52.801 [main] IndexPage - User sign-up
+[INFO ] 2023-04-23 13:29:04.363 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 13:29:06.736 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 13:29:21.243 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 13:29:23.516 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 13:29:26.371 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 13:29:31.875 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 13:29:33.089 [main] Cartpage - Product 9added to cart button clicked
+[INFO ] 2023-04-23 13:29:34.934 [main] Cartpage - order placed clicked
+[INFO ] 2023-04-23 13:29:36.575 [main] PlaceOrderDetail - oder information provided
+[INFO ] 2023-04-23 13:29:37.329 [main] PlaceOrderDetail - oder information provided-name
+[INFO ] 2023-04-23 13:29:37.786 [main] PlaceOrderDetail - oder information provided-Country
+[INFO ] 2023-04-23 13:29:38.193 [main] PlaceOrderDetail - oder information provided-city
+[INFO ] 2023-04-23 13:29:38.683 [main] PlaceOrderDetail - oder information provided-Card detail
+[INFO ] 2023-04-23 13:29:39.064 [main] PlaceOrderDetail - oder information provided-Month
+[INFO ] 2023-04-23 13:29:39.456 [main] PlaceOrderDetail - oder information provided-year
+[INFO ] 2023-04-23 13:29:55.175 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 13:29:57.157 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 13:30:00.113 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 13:30:05.611 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 13:30:06.563 [main] Cartpage - Product 9added to cart button clicked
+[INFO ] 2023-04-23 13:30:09.278 [main] Cartpage - Product deleted from cart 
+[INFO ] 2023-04-23 15:28:40.695 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 15:28:43.071 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 15:28:45.739 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 15:28:52.773 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 15:28:53.757 [main] Cartpage - Product 9added to cart button clicked
+[INFO ] 2023-04-23 15:28:55.070 [main] Cartpage - order placed clicked
+[INFO ] 2023-04-23 15:28:56.715 [main] PlaceOrderDetail - oder information provided
+[INFO ] 2023-04-23 15:28:57.372 [main] PlaceOrderDetail - oder information provided-name
+[INFO ] 2023-04-23 15:28:57.979 [main] PlaceOrderDetail - oder information provided-Country
+[INFO ] 2023-04-23 15:28:58.590 [main] PlaceOrderDetail - oder information provided-city
+[INFO ] 2023-04-23 15:28:59.193 [main] PlaceOrderDetail - oder information provided-Card detail
+[INFO ] 2023-04-23 15:28:59.648 [main] PlaceOrderDetail - oder information provided-Month
+[INFO ] 2023-04-23 15:29:00.176 [main] PlaceOrderDetail - oder information provided-year
+[INFO ] 2023-04-23 15:29:15.774 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 15:29:29.685 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 15:29:32.015 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 15:29:38.926 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 15:29:46.656 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 15:31:07.995 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 15:31:10.056 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 15:48:19.239 [main] IndexPage - User sign-up
+[INFO ] 2023-04-23 15:49:14.741 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 15:49:17.085 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 15:49:41.655 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 15:50:03.579 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 15:50:05.614 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 15:50:50.572 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 15:50:52.906 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 15:52:34.411 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 15:52:36.514 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 15:52:56.632 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 15:52:58.958 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 15:53:12.771 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 15:53:14.467 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 15:53:54.596 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 15:53:56.300 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 16:01:26.320 [main] IndexPage - User sign-up
+[INFO ] 2023-04-23 16:01:39.192 [main] IndexPage - User sign-up
+[INFO ] 2023-04-23 16:02:01.798 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 16:02:04.976 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 16:02:49.139 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 16:02:51.592 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 16:03:05.408 [main] Cartpage - Product added to cart
+[INFO ] 2023-04-23 16:04:28.276 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 16:04:31.760 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 16:04:39.280 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 16:04:47.606 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 16:04:48.957 [main] Cartpage - Product 9added to cart button clicked
+[INFO ] 2023-04-23 16:04:52.190 [main] Cartpage - order placed clicked
+[INFO ] 2023-04-23 16:04:53.909 [main] PlaceOrderDetail - oder information provided
+[INFO ] 2023-04-23 16:04:54.875 [main] PlaceOrderDetail - oder information provided-name
+[INFO ] 2023-04-23 16:04:55.567 [main] PlaceOrderDetail - oder information provided-Country
+[INFO ] 2023-04-23 16:04:56.167 [main] PlaceOrderDetail - oder information provided-city
+[INFO ] 2023-04-23 16:04:56.909 [main] PlaceOrderDetail - oder information provided-Card detail
+[INFO ] 2023-04-23 16:04:57.723 [main] PlaceOrderDetail - oder information provided-Month
+[INFO ] 2023-04-23 16:04:58.248 [main] PlaceOrderDetail - oder information provided-year
+[INFO ] 2023-04-23 16:05:20.456 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 16:05:22.609 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 16:05:27.306 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 16:05:33.578 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 16:05:34.670 [main] Cartpage - Product 9added to cart button clicked
+[INFO ] 2023-04-23 16:05:38.387 [main] Cartpage - order placed clicked
+[INFO ] 2023-04-23 16:06:54.577 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 16:06:57.227 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 16:07:03.418 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 16:07:09.583 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 16:07:10.530 [main] Cartpage - Product 9added to cart button clicked
+[INFO ] 2023-04-23 16:07:13.123 [main] Cartpage - order placed clicked
+[INFO ] 2023-04-23 16:07:29.938 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 16:07:32.023 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 16:07:34.532 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 16:07:39.640 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 16:07:40.667 [main] Cartpage - Product 9added to cart button clicked
+[INFO ] 2023-04-23 16:07:43.869 [main] Cartpage - Product deleted from cart 
+[INFO ] 2023-04-23 16:09:46.730 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 16:09:49.718 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 16:09:57.907 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 16:10:03.797 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 16:10:04.850 [main] Cartpage - Product 9added to cart button clicked
+[INFO ] 2023-04-23 16:10:07.095 [main] Cartpage - order placed clicked
+[INFO ] 2023-04-23 16:10:08.112 [main] PlaceOrderDetail - oder information provided
+[INFO ] 2023-04-23 16:10:08.670 [main] PlaceOrderDetail - oder information provided-name
+[INFO ] 2023-04-23 16:10:09.079 [main] PlaceOrderDetail - oder information provided-Country
+[INFO ] 2023-04-23 16:10:09.466 [main] PlaceOrderDetail - oder information provided-city
+[INFO ] 2023-04-23 16:10:09.885 [main] PlaceOrderDetail - oder information provided-Card detail
+[INFO ] 2023-04-23 16:10:10.229 [main] PlaceOrderDetail - oder information provided-Month
+[INFO ] 2023-04-23 16:10:10.557 [main] PlaceOrderDetail - oder information provided-year
+[INFO ] 2023-04-23 16:10:34.937 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 16:10:37.336 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 16:10:42.667 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 16:10:47.982 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 16:10:48.881 [main] Cartpage - Product 9added to cart button clicked
+[INFO ] 2023-04-23 16:10:50.328 [main] Cartpage - order placed clicked
+[INFO ] 2023-04-23 16:11:09.698 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 16:11:12.299 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 16:11:18.189 [main] Cartpage - Product added to cart
+[INFO ] 2023-04-23 16:11:29.392 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 16:11:31.480 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 16:11:34.479 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 16:11:39.625 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 16:11:40.522 [main] Cartpage - Product 9added to cart button clicked
+[INFO ] 2023-04-23 16:11:44.219 [main] Cartpage - Product deleted from cart 
+[INFO ] 2023-04-23 16:11:54.751 [main] IndexPage - User sign-up
+[INFO ] 2023-04-23 16:12:09.735 [main] IndexPage - User sign-up
+[INFO ] 2023-04-23 16:12:23.684 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 16:12:26.583 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 16:12:45.865 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 16:12:48.715 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 16:17:19.932 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 16:17:22.522 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 16:17:25.452 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 16:17:31.758 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 16:17:32.648 [main] Cartpage - Product 9added to cart button clicked
+[INFO ] 2023-04-23 16:17:34.076 [main] Cartpage - order placed clicked
+[INFO ] 2023-04-23 16:17:35.950 [main] PlaceOrderDetail - oder information provided
+[INFO ] 2023-04-23 16:17:36.742 [main] PlaceOrderDetail - oder information provided-name
+[INFO ] 2023-04-23 16:17:37.514 [main] PlaceOrderDetail - oder information provided-Country
+[INFO ] 2023-04-23 16:17:38.149 [main] PlaceOrderDetail - oder information provided-city
+[INFO ] 2023-04-23 16:17:38.978 [main] PlaceOrderDetail - oder information provided-Card detail
+[INFO ] 2023-04-23 16:17:39.404 [main] PlaceOrderDetail - oder information provided-Month
+[INFO ] 2023-04-23 16:17:39.802 [main] PlaceOrderDetail - oder information provided-year
+[INFO ] 2023-04-23 16:18:00.985 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 16:18:03.699 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 16:18:07.413 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 16:18:13.721 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 16:18:15.097 [main] Cartpage - Product 9added to cart button clicked
+[INFO ] 2023-04-23 16:18:16.558 [main] Cartpage - order placed clicked
+[INFO ] 2023-04-23 16:18:41.025 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 16:18:42.836 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 16:18:46.547 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 16:18:53.299 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 16:18:54.673 [main] Cartpage - Product 9added to cart button clicked
+[INFO ] 2023-04-23 16:18:56.194 [main] Cartpage - order placed clicked
+[INFO ] 2023-04-23 16:19:17.236 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 16:19:19.422 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 16:19:22.258 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 16:19:27.278 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 16:19:28.324 [main] Cartpage - Product 9added to cart button clicked
+[INFO ] 2023-04-23 16:19:31.442 [main] Cartpage - Product deleted from cart 
+[INFO ] 2023-04-23 16:19:43.788 [main] IndexPage - User sign-up
+[INFO ] 2023-04-23 16:20:00.441 [main] IndexPage - User sign-up
+[INFO ] 2023-04-23 16:20:12.348 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 16:20:14.777 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 16:20:36.749 [main] LoginPage - User loged-in with credentials
+[INFO ] 2023-04-23 16:20:39.370 [main] LoginPage - Welcome Message displayed
+[INFO ] 2023-04-23 16:20:43.597 [main] Cartpage - Product added to cart
+[WARN ] 2023-04-23 16:20:49.096 [main] Cartpage - Product added to cart alert Msg
+[INFO ] 2023-04-23 16:20:49.942 [main] Cartpage - Product 9added to cart button clicked
+[INFO ] 2023-04-23 16:20:51.532 [main] Cartpage - order placed clicked
+[INFO ] 2023-04-23 16:20:53.086 [main] PlaceOrderDetail - oder information provided
+[INFO ] 2023-04-23 16:20:53.646 [main] PlaceOrderDetail - oder information provided-name
+[INFO ] 2023-04-23 16:20:54.083 [main] PlaceOrderDetail - oder information provided-Country
+[INFO ] 2023-04-23 16:20:54.474 [main] PlaceOrderDetail - oder information provided-city
+[INFO ] 2023-04-23 16:20:54.998 [main] PlaceOrderDetail - oder information provided-Card detail
+[INFO ] 2023-04-23 16:20:55.358 [main] PlaceOrderDetail - oder information provided-Month
+[INFO ] 2023-04-23 16:20:55.705 [main] PlaceOrderDetail - oder information provided-year
