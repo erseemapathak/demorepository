@@ -1,0 +1,1142 @@
+[
+	{
+		"line": 20,
+		"elements": [
+			{
+				"start_timestamp": "2023-04-23T10:47:06.490Z",
+				"before": [
+					{
+						"result": {
+							"duration": 12520478000,
+							"status": "passed"
+						},
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.setup()"
+						}
+					}
+				],
+				"line": 23,
+				"name": "user can place order for product",
+				"description": "",
+				"id": "demoblaze-project-automation-cart-page;user-can-place-order-for-product",
+				"type": "scenario",
+				"keyword": "Scenario",
+				"steps": [
+					{
+						"result": {
+							"duration": 188124800,
+							"status": "passed"
+						},
+						"line": 24,
+						"name": "user is on the home page",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_is_on_the_home_page()"
+						},
+						"keyword": "Given "
+					},
+					{
+						"result": {
+							"duration": 677452200,
+							"status": "passed"
+						},
+						"line": 25,
+						"name": "user open Login Page\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t+",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_open_login_page()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 2562706800,
+							"status": "passed"
+						},
+						"line": 26,
+						"name": "I enter username as \"seema123@gmail.com\" ans password as \"test123\"",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"seema123@gmail.com\"",
+									"offset": 20
+								},
+								{
+									"val": "\"test123\"",
+									"offset": 57
+								}
+							],
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.login(java.lang.String,java.lang.String)"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 2303011100,
+							"status": "passed"
+						},
+						"line": 27,
+						"name": "I should successfully login",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.validLogin()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 665345600,
+							"status": "passed"
+						},
+						"line": 28,
+						"name": "user click on phones category and check item display",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_click_on_phones_category_and_check_item_display()"
+						},
+						"keyword": "And "
+					},
+					{
+						"result": {
+							"duration": 4304126400,
+							"status": "passed"
+						},
+						"line": 29,
+						"name": "user click on random item and add it to cart",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_click_on_random_item_and_add_it_to_cart()"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 2059371800,
+							"status": "passed"
+						},
+						"line": 30,
+						"name": "alert of item added is displayed and user accept that",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.alert_of_item_added_is_displayed_and_user_accept_that()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 2256912600,
+							"status": "passed"
+						},
+						"line": 31,
+						"name": "user navigate to cart page",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_navigate_to_cart_page()"
+						},
+						"keyword": "And "
+					},
+					{
+						"result": {
+							"duration": 1775175500,
+							"status": "passed"
+						},
+						"line": 32,
+						"name": "user click on place order button",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_click_on_place_order_button()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 4395928300,
+							"status": "passed"
+						},
+						"line": 33,
+						"name": "user fill Detail to place order then click on purchase button",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_fill_detail_to_place_order_then_click_on_purchase_button()"
+						},
+						"keyword": "And "
+					},
+					{
+						"result": {
+							"duration": 5475870000,
+							"status": "passed"
+						},
+						"line": 34,
+						"name": "order Confirmation  Message is displayed and user click on ok button",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.order_confirmation_message_is_displayed_and_user_click_on_ok_button()"
+						},
+						"keyword": "Then "
+					}
+				],
+				"tags": [
+					{
+						"name": "@smoke"
+					},
+					{
+						"name": "@positive"
+					},
+					{
+						"name": "@integration"
+					}
+				]
+			},
+			{
+				"start_timestamp": "2023-04-23T10:47:45.958Z",
+				"before": [
+					{
+						"result": {
+							"duration": 14388353500,
+							"status": "passed"
+						},
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.setup()"
+						}
+					}
+				],
+				"line": 36,
+				"name": "user can place order for product with only name and card detail",
+				"description": "",
+				"id": "demoblaze-project-automation-cart-page;user-can-place-order-for-product-with-only-name-and-card-detail",
+				"type": "scenario",
+				"keyword": "Scenario",
+				"steps": [
+					{
+						"result": {
+							"duration": 39191300,
+							"status": "passed"
+						},
+						"line": 37,
+						"name": "user is on the home page",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_is_on_the_home_page()"
+						},
+						"keyword": "Given "
+					},
+					{
+						"result": {
+							"duration": 593387600,
+							"status": "passed"
+						},
+						"line": 38,
+						"name": "user open Login Page\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t+",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_open_login_page()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 2711806700,
+							"status": "passed"
+						},
+						"line": 39,
+						"name": "I enter username as \"seema123@gmail.com\" ans password as \"test123\"",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"seema123@gmail.com\"",
+									"offset": 20
+								},
+								{
+									"val": "\"test123\"",
+									"offset": 57
+								}
+							],
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.login(java.lang.String,java.lang.String)"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 3035023900,
+							"status": "passed"
+						},
+						"line": 40,
+						"name": "I should successfully login",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.validLogin()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 678450600,
+							"status": "passed"
+						},
+						"line": 41,
+						"name": "user click on phones category and check item display",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_click_on_phones_category_and_check_item_display()"
+						},
+						"keyword": "And "
+					},
+					{
+						"result": {
+							"duration": 4295353100,
+							"status": "passed"
+						},
+						"line": 42,
+						"name": "user click on random item and add it to cart",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_click_on_random_item_and_add_it_to_cart()"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 2069379600,
+							"status": "passed"
+						},
+						"line": 43,
+						"name": "alert of item added is displayed and user accept that",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.alert_of_item_added_is_displayed_and_user_accept_that()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 2768847600,
+							"status": "passed"
+						},
+						"line": 44,
+						"name": "user navigate to cart page",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_navigate_to_cart_page()"
+						},
+						"keyword": "And "
+					},
+					{
+						"result": {
+							"duration": 1603067600,
+							"status": "passed"
+						},
+						"line": 45,
+						"name": "user click on place order button",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_click_on_place_order_button()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 1563041400,
+							"status": "passed"
+						},
+						"line": 46,
+						"name": "user fill Detail name and card to place order then click on purchase button",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_fill_detail_name_and_card_to_place_order_then_click_on_purchase_button()"
+						},
+						"keyword": "And "
+					},
+					{
+						"result": {
+							"duration": 5817464000,
+							"status": "passed"
+						},
+						"line": 47,
+						"name": "order Confirmation  Message is displayed and user click on ok button",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.order_confirmation_message_is_displayed_and_user_click_on_ok_button()"
+						},
+						"keyword": "Then "
+					}
+				],
+				"tags": [
+					{
+						"name": "@smoke"
+					}
+				]
+			},
+			{
+				"start_timestamp": "2023-04-23T10:48:25.598Z",
+				"before": [
+					{
+						"result": {
+							"duration": 15075229100,
+							"status": "passed"
+						},
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.setup()"
+						}
+					}
+				],
+				"line": 49,
+				"name": "user try to place order for product without giving name detail",
+				"description": "",
+				"id": "demoblaze-project-automation-cart-page;user-try-to-place-order-for-product-without-giving-name-detail",
+				"type": "scenario",
+				"keyword": "Scenario",
+				"steps": [
+					{
+						"result": {
+							"duration": 84054900,
+							"status": "passed"
+						},
+						"line": 50,
+						"name": "user is on the home page",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_is_on_the_home_page()"
+						},
+						"keyword": "Given "
+					},
+					{
+						"result": {
+							"duration": 261174700,
+							"status": "passed"
+						},
+						"line": 51,
+						"name": "user open Login Page\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t+",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_open_login_page()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 1811206900,
+							"status": "passed"
+						},
+						"line": 52,
+						"name": "I enter username as \"seema123@gmail.com\" ans password as \"test123\"",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"seema123@gmail.com\"",
+									"offset": 20
+								},
+								{
+									"val": "\"test123\"",
+									"offset": 57
+								}
+							],
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.login(java.lang.String,java.lang.String)"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 2799785600,
+							"status": "passed"
+						},
+						"line": 53,
+						"name": "I should successfully login",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.validLogin()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 906610100,
+							"status": "passed"
+						},
+						"line": 54,
+						"name": "user click on phones category and check item display",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_click_on_phones_category_and_check_item_display()"
+						},
+						"keyword": "And "
+					},
+					{
+						"result": {
+							"duration": 4747657400,
+							"status": "passed"
+						},
+						"line": 55,
+						"name": "user click on random item and add it to cart",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_click_on_random_item_and_add_it_to_cart()"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 2047823900,
+							"status": "passed"
+						},
+						"line": 56,
+						"name": "alert of item added is displayed and user accept that",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.alert_of_item_added_is_displayed_and_user_accept_that()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 2846896800,
+							"status": "passed"
+						},
+						"line": 57,
+						"name": "user navigate to cart page",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_navigate_to_cart_page()"
+						},
+						"keyword": "And "
+					},
+					{
+						"result": {
+							"duration": 1548033200,
+							"status": "passed"
+						},
+						"line": 58,
+						"name": "user click on place order button",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_click_on_place_order_button()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 3203133700,
+							"status": "passed"
+						},
+						"line": 59,
+						"name": "user try to place order for product without giving name detail then click on purchase button",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_try_to_place_order_for_product_without_giving_name_detail_then_click_on_purchase_button()"
+						},
+						"keyword": "And "
+					},
+					{
+						"result": {
+							"duration": 2972613100,
+							"status": "passed"
+						},
+						"line": 60,
+						"name": "alert message for incomplete detail is displayed and user accept that",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.alert_message_for_incomplete_detail_is_displayed_and_user_accept_that()"
+						},
+						"keyword": "Then "
+					}
+				],
+				"tags": [
+					{
+						"name": "@smoke"
+					}
+				]
+			},
+			{
+				"start_timestamp": "2023-04-23T10:49:03.966Z",
+				"before": [
+					{
+						"result": {
+							"duration": 12671400300,
+							"status": "passed"
+						},
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.setup()"
+						}
+					}
+				],
+				"line": 62,
+				"name": "user add items to cart then delete item from cart",
+				"description": "",
+				"id": "demoblaze-project-automation-cart-page;user-add-items-to-cart-then-delete-item-from-cart",
+				"type": "scenario",
+				"keyword": "Scenario",
+				"steps": [
+					{
+						"result": {
+							"duration": 218148200,
+							"status": "passed"
+						},
+						"line": 63,
+						"name": "user is on the home page",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_is_on_the_home_page()"
+						},
+						"keyword": "Given "
+					},
+					{
+						"result": {
+							"duration": 372248700,
+							"status": "passed"
+						},
+						"line": 64,
+						"name": "user open Login Page\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t+",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_open_login_page()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 2187457700,
+							"status": "passed"
+						},
+						"line": 65,
+						"name": "I enter username as \"seema123@gmail.com\" ans password as \"test123\"",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"seema123@gmail.com\"",
+									"offset": 20
+								},
+								{
+									"val": "\"test123\"",
+									"offset": 57
+								}
+							],
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.login(java.lang.String,java.lang.String)"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 2221570000,
+							"status": "passed"
+						},
+						"line": 66,
+						"name": "I should successfully login",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.validLogin()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 610405800,
+							"status": "passed"
+						},
+						"line": 67,
+						"name": "user click on phones category and check item display",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_click_on_phones_category_and_check_item_display()"
+						},
+						"keyword": "And "
+					},
+					{
+						"result": {
+							"duration": 3018012100,
+							"status": "passed"
+						},
+						"line": 68,
+						"name": "user click on random item and add it to cart",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_click_on_random_item_and_add_it_to_cart()"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 2037358800,
+							"status": "passed"
+						},
+						"line": 69,
+						"name": "alert of item added is displayed and user accept that",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.alert_of_item_added_is_displayed_and_user_accept_that()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 2952968600,
+							"status": "passed"
+						},
+						"line": 70,
+						"name": "user navigate to cart page",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_navigate_to_cart_page()"
+						},
+						"keyword": "And "
+					},
+					{
+						"result": {
+							"duration": 3125080600,
+							"status": "passed"
+						},
+						"line": 71,
+						"name": "user delete item from cart",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_delete_item_from_cart()"
+						},
+						"keyword": "And "
+					}
+				],
+				"tags": [
+					{
+						"name": "@smoke"
+					}
+				]
+			}
+		],
+		"name": "demoblaze Project automation cart page",
+		"description": "",
+		"id": "demoblaze-project-automation-cart-page",
+		"keyword": "Feature",
+		"uri": "file:src/test/resources/com/cumcumber/MyProject_DemoBlaze/CartPage.feature",
+		"tags": [
+			{
+				"name": "@smoke",
+				"type": "Tag",
+				"location": {
+					"line": 19,
+					"column": 1
+				}
+			}
+		]
+	},
+	{
+		"line": 22,
+		"elements": [
+			{
+				"start_timestamp": "2023-04-23T10:49:33.460Z",
+				"before": [
+					{
+						"result": {
+							"duration": 8679126300,
+							"status": "passed"
+						},
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.setup()"
+						}
+					}
+				],
+				"line": 26,
+				"name": "User open DemoBlaze",
+				"description": "",
+				"id": "demoblaze-automation-project;user-open-demoblaze",
+				"type": "scenario",
+				"keyword": "Scenario",
+				"steps": [
+					{
+						"result": {
+							"duration": 1238827600,
+							"status": "passed"
+						},
+						"line": 27,
+						"name": "user is on demoblaze.com",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user__is_on_demoblaze_com()"
+						},
+						"keyword": "Given "
+					},
+					{
+						"result": {
+							"duration": 405273600,
+							"status": "passed"
+						},
+						"line": 28,
+						"name": "user move to the sign-up page",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_move_to_the_sign_up_page()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 1997324700,
+							"status": "passed"
+						},
+						"line": 29,
+						"name": "user enter username as \"seema123@gmail.com\" ans password as \"test123\"",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"seema123@gmail.com\"",
+									"offset": 23
+								},
+								{
+									"val": "\"test123\"",
+									"offset": 60
+								}
+							],
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.IndexPage(java.lang.String,java.lang.String)"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 629417300,
+							"status": "passed"
+						},
+						"line": 30,
+						"name": "user should successfully sign-up",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_should_successfully_sign_up()"
+						},
+						"keyword": "Then "
+					}
+				],
+				"tags": [
+					{
+						"name": "@smoke"
+					},
+					{
+						"name": "@regression"
+					}
+				]
+			},
+			{
+				"start_timestamp": "2023-04-23T10:49:46.452Z",
+				"before": [
+					{
+						"result": {
+							"duration": 12398850500,
+							"status": "passed"
+						},
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.setup()"
+						}
+					}
+				],
+				"line": 33,
+				"name": "User try to sign-up with existing Id",
+				"description": "",
+				"id": "demoblaze-automation-project;user-try-to-sign-up-with-existing-id",
+				"type": "scenario",
+				"keyword": "Scenario",
+				"steps": [
+					{
+						"result": {
+							"duration": 1173781400,
+							"status": "passed"
+						},
+						"line": 34,
+						"name": "user is on demoblaze.com",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user__is_on_demoblaze_com()"
+						},
+						"keyword": "Given "
+					},
+					{
+						"result": {
+							"duration": 408272800,
+							"status": "passed"
+						},
+						"line": 35,
+						"name": "user move to the sign-up page",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_move_to_the_sign_up_page()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 1979539600,
+							"status": "passed"
+						},
+						"line": 36,
+						"name": "user enter existing username as \"ram123@gmail.com\" ans password as \"test123\"",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"ram123@gmail.com\"",
+									"offset": 32
+								},
+								{
+									"val": "\"test123\"",
+									"offset": 67
+								}
+							],
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_enter_existing_username_as_ans_password_as(java.lang.String,java.lang.String)"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 817544500,
+							"status": "passed"
+						},
+						"line": 37,
+						"name": "user should get an alert message",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_should_get_an_alert_message()"
+						},
+						"keyword": "Then "
+					}
+				],
+				"tags": [
+					{
+						"name": "@smoke"
+					},
+					{
+						"name": "@regression"
+					}
+				]
+			},
+			{
+				"start_timestamp": "2023-04-23T10:50:03.300Z",
+				"before": [
+					{
+						"result": {
+							"duration": 8488690500,
+							"status": "passed"
+						},
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.setup()"
+						}
+					}
+				],
+				"line": 40,
+				"name": "Valid username and valid password test",
+				"description": "",
+				"id": "demoblaze-automation-project;valid-username-and-valid-password-test",
+				"type": "scenario",
+				"keyword": "Scenario",
+				"steps": [
+					{
+						"result": {
+							"duration": 96063500,
+							"status": "passed"
+						},
+						"line": 41,
+						"name": "user is on the home page",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_is_on_the_home_page()"
+						},
+						"keyword": "Given "
+					},
+					{
+						"result": {
+							"duration": 441293600,
+							"status": "passed"
+						},
+						"line": 42,
+						"name": "user open Login Page\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t+",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_open_login_page()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 2435623100,
+							"status": "passed"
+						},
+						"line": 43,
+						"name": "I enter username as \"seema123@gmail.com\" ans password as \"test123\"",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"seema123@gmail.com\"",
+									"offset": 20
+								},
+								{
+									"val": "\"test123\"",
+									"offset": 57
+								}
+							],
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.login(java.lang.String,java.lang.String)"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 2120419300,
+							"status": "passed"
+						},
+						"line": 44,
+						"name": "I should successfully login",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.validLogin()"
+						},
+						"keyword": "Then "
+					}
+				],
+				"tags": [
+					{
+						"name": "@smoke"
+					},
+					{
+						"name": "@login"
+					},
+					{
+						"name": "@positive"
+					}
+				]
+			},
+			{
+				"start_timestamp": "2023-04-23T10:50:16.917Z",
+				"before": [
+					{
+						"result": {
+							"duration": 19479058400,
+							"status": "passed"
+						},
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.setup()"
+						}
+					}
+				],
+				"line": 47,
+				"name": "user can place order for product",
+				"description": "",
+				"id": "demoblaze-automation-project;user-can-place-order-for-product",
+				"type": "scenario",
+				"keyword": "Scenario",
+				"steps": [
+					{
+						"result": {
+							"duration": 35026200,
+							"status": "passed"
+						},
+						"line": 48,
+						"name": "user is on the home page",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_is_on_the_home_page()"
+						},
+						"keyword": "Given "
+					},
+					{
+						"result": {
+							"duration": 312207000,
+							"status": "passed"
+						},
+						"line": 49,
+						"name": "user open Login Page\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t+",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_open_login_page()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 2620746000,
+							"status": "passed"
+						},
+						"line": 50,
+						"name": "I enter username as \"seema123@gmail.com\" ans password as \"test123\"",
+						"match": {
+							"arguments": [
+								{
+									"val": "\"seema123@gmail.com\"",
+									"offset": 20
+								},
+								{
+									"val": "\"test123\"",
+									"offset": 57
+								}
+							],
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.login(java.lang.String,java.lang.String)"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 3465811400,
+							"status": "passed"
+						},
+						"line": 51,
+						"name": "I should successfully login",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.validLogin()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 759511500,
+							"status": "passed"
+						},
+						"line": 52,
+						"name": "user click on phones category and check item display",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_click_on_phones_category_and_check_item_display()"
+						},
+						"keyword": "And "
+					},
+					{
+						"result": {
+							"duration": 3483321100,
+							"status": "passed"
+						},
+						"line": 53,
+						"name": "user click on random item and add it to cart",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_click_on_random_item_and_add_it_to_cart()"
+						},
+						"keyword": "When "
+					},
+					{
+						"result": {
+							"duration": 2044113700,
+							"status": "passed"
+						},
+						"line": 54,
+						"name": "alert of item added is displayed and user accept that",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.alert_of_item_added_is_displayed_and_user_accept_that()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 2398597900,
+							"status": "passed"
+						},
+						"line": 55,
+						"name": "user navigate to cart page",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_navigate_to_cart_page()"
+						},
+						"keyword": "And "
+					},
+					{
+						"result": {
+							"duration": 1559039400,
+							"status": "passed"
+						},
+						"line": 56,
+						"name": "user click on place order button",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_click_on_place_order_button()"
+						},
+						"keyword": "Then "
+					},
+					{
+						"result": {
+							"duration": 3025016700,
+							"status": "passed"
+						},
+						"line": 57,
+						"name": "user fill Detail to place order then click on purchase button",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.user_fill_detail_to_place_order_then_click_on_purchase_button()"
+						},
+						"keyword": "And "
+					},
+					{
+						"result": {
+							"duration": 5909846400,
+							"status": "passed"
+						},
+						"line": 58,
+						"name": "order Confirmation  Message is displayed and user click on ok button",
+						"match": {
+							"location": "com.cumcumber.MyProject_DemoBlaze.Index_stepdefinitions.order_confirmation_message_is_displayed_and_user_click_on_ok_button()"
+						},
+						"keyword": "Then "
+					}
+				],
+				"tags": [
+					{
+						"name": "@smoke"
+					},
+					{
+						"name": "@positive"
+					},
+					{
+						"name": "@integration"
+					}
+				]
+			}
+		],
+		"name": "DemoBlaze Automation Project",
+		"description": "",
+		"id": "demoblaze-automation-project",
+		"keyword": "Feature",
+		"uri": "file:src/test/resources/com/cumcumber/MyProject_DemoBlaze/myproject.feature",
+		"tags": [
+			{
+				"name": "@smoke",
+				"type": "Tag",
+				"location": {
+					"line": 20,
+					"column": 1
+				}
+			}
+		]
+	}
+]
